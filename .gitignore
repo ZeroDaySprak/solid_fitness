@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+dist
+.vercel
+.env*
+!.env.example
+.DS_Store
+*.log
+.turbo
+coverage
+# keep sequence frames out of git if huge; use git lfs or a CDN instead
+# public/assets/sequence/*.webp
